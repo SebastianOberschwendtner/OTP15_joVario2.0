@@ -24,13 +24,11 @@ The **2.0** release has compacter case and uses the [&rdca; OTOS](https://github
 |---|---|---|
 |**main**|`active`| Main branch for releases.|
  
-## Technical Data
-|Type|Value|
+## Folder Structure
+|Name|Content|
 |---|---|
-|*Microcontroller*| **STM32F4**|
-|*Battery*| *tbd* |
-|*Air Pressure Sensor*|**MS5611**|
-|*GPS Sensor*|**U-Blocks**|
-|*BMS IC*|**TI BQ25700**|
-
-
+|[10_Firmware](https://github.com/knuffel-v2/OTP15_joVario2.0/tree/main/10_Firmware)|Firmware source files|
+|[20_Schematic](https://github.com/knuffel-v2/OTP15_joVario2.0/tree/main/20_Schematics)|Schematic Exports|
+|[30_PCB](https://github.com/knuffel-v2/OTP15_joVario2.0/tree/main/30_PCB)|PCB Gerber files|
+|[40_Hardware](https://github.com/knuffel-v2/OTP15_joVario2.0/tree/main/40_Hardware)|FreeCAD CAD files and STL exports|
+|[50_Doc](https://github.com/knuffel-v2/OTP15_joVario2.0/tree/main/50_Doc)|Files for documenation|
